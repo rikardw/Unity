@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 13698d9c31a14804abc169b766d38320
+timeCreated: 1513884524
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bulky Pixels
+  fontNames:
+  - Bulky Pixels
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
